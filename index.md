@@ -15,4 +15,3 @@ This is my github
 - Alternative text
 - First Impression (presentation)
 - [Takeaways] (takeaways)
-
