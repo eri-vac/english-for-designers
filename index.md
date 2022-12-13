@@ -3,7 +3,7 @@ This is my github
 
 # About me
 - my story
-- [CV/resumé] (04-exeprience)
+- [CV/resumé](04-exeprience)
 - Voice, tone, and style Guido
 - Contact: eri.vaclavikova@gmail.com 
 
@@ -14,4 +14,4 @@ This is my github
 # Exras 
 - Alternative text
 - First Impression (presentation)
-- [Takeaways] (takeaways)
+- [Takeaways](takeaways)
