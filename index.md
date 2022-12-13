@@ -14,4 +14,5 @@ This is my github
 # Exras 
 - Alternative text
 - First Impression (presentation)
-- Takeaways
+- [Takeaways] (takeaways)
+
