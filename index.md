@@ -16,6 +16,7 @@ This is my github
 
 ## Contact
 email: eri.vaclavikova@gmail.com
+
 phone number: +420 604 508 374
 
 
