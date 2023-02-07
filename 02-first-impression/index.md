@@ -1,5 +1,5 @@
 # Hello. I´m Erika and I come from Prague. 
-
+![This is me](2022-11-22 112815.jpg)
 
 I´m studying graphic design. 
 I love music, books, art and illustration. 
