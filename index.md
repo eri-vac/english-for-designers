@@ -7,7 +7,7 @@ This is my github
 - [Voice and tone](03-voice-tone)
 
 ## Case study
-- Project Name?
+- [Logo manual](05-poject)
 - https://erivaclavikova.myportfolio.com
 
 ## Exras 
