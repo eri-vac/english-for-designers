@@ -12,7 +12,7 @@ This is my github
 - Project Presendation?
 
 ## Exras 
-- Alternative text
+- [Alternative text](01-alternative-text) 
 - First Impression (presentation)
 - [Takeaways](takeaways)
 
