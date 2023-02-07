@@ -2,7 +2,7 @@
 This is my github
 
 # About me
-- [My story](my story)
+- My story
 - [CV/resumé](04-experience)
 - Voice, tone, and style Guido
 - Contact: eri.vaclavikova@gmail.com 
