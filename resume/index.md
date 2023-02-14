@@ -1,4 +1,8 @@
 # RESUMÉ
+
+
+![photo](2022-11-22 112815.jpg)
+
 I am studying graphic design. 
 I love books, art and illustration. 
 I often go to art exhibitions for inspiration. 
