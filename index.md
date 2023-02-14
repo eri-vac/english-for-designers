@@ -3,7 +3,7 @@ This is my github
 
 ## About me
 - [First impression](02-first-impression)
-- [CV/resumé](04-experience)
+- [CV/resumé](resume)
 - [Voice and tone](03-voice-tone)
 
 ## Case study
