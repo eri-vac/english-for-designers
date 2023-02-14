@@ -65,6 +65,6 @@ I helped a yoga instructor to become visible on social networks and redesign her
   Email: eri.vaclavikova@gmail.com
   Phone number: +420 604 508 374
   
- ![vacavikova_cv.pdf](vacavikova_cv.pdf)
+ [vacavikova_cv.pdf](vacavikova_cv.pdf)
 
 
