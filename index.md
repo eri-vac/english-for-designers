@@ -6,6 +6,7 @@ This is my github
 - [CV/resumé](resume)
 - [Voice and tone](03-voice-tone)
 
+# WINTER
 ## Case study
 - [Logo manual](05-poject)
 - https://erivaclavikova.myportfolio.com
@@ -13,6 +14,10 @@ This is my github
 ## Exras 
 - [Alternative text](01-alternative-text) 
 - [Takeaways](takeaways)
+
+# SUMMER
+- [Storytelling](06-storytelling)
+- [Abstract](07-abstract)
 
 ## Contact
 email: eri.vaclavikova@gmail.com
