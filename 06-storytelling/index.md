@@ -6,4 +6,12 @@ I didn't just want to design some covers on the computer, but I wanted to go fur
 
 When I had selected a specific print, it was time to sit down at the computer and continue working. I used photoshop exclusively for editing the print, where the work was very fast. it was just editing and adding text. So the cover was born.
 
+Me and music
+Like many other people, I have loved music since I was a child. The first recognition of sounds begins at an early age. First dance to a given rhythm in kindergarten. Listening to pop music in the garden with the family on a summer evening.
+
+Music helped me a lot, especially when I was a teenager. This is the time when a person searches for himself and also searches for music, without the influence of parents and family. He makes up his mind about what his friends and peers are listening to. Even my development was a bit wild. It started with pop, then came Czech rap and dubstep. It became trap music until I somehow got to my beloved alternative rock, which I still enjoy listening to today. Those were difficult times for me when I was looking for myself and this music was always with me. 
+
+It was there for me when I had a stupid argument with my mom and even when I was driving for the first time. At all important milestones.
+It's great how creative they can be on the packaging.
+
    *my storytelling is in process*
