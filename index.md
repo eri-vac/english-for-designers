@@ -18,6 +18,7 @@ This is my github
 # SUMMER
 - [Storytelling](06-storytelling)
 - [Abstract](07-abstract)
+- [Final thesis](08-thesis)
 
 ## Contact
 email: eri.vaclavikova@gmail.com
