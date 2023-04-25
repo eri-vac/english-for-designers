@@ -19,6 +19,7 @@ This is my github
 - [Storytelling](06-storytelling)
 - [Abstract](07-abstract)
 - [Final thesis](08-thesis)
+- [Year end review](00-year-end-review)
 
 ## Contact
 email: eri.vaclavikova@gmail.com
