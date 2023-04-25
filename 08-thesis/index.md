@@ -6,10 +6,11 @@ The environmental impact on our planet is a very current, societal problem that 
 In the practical part, the thesis deals with the proposal of a solution to the problem of packaging. It shows the visual solution of the campaign. It discusses essential parts of the campaign such as the effect of the logo. It illuminates the functionality of websites, social networks and media. It presents practical products under the auspices of the EU.
 
 The work shows a proposal that would contribute to the environment and burden it as little as possible. This is B2B communication between the European Union and supermarket chains.
+
 The goal of this communication is to push companies to the first step of packaging-free containers. This is one of the most economical solutions. This would be a big savings in packaging materials, which, in addition to a positive environmental impact, would have a favorable impact on the final price, and every consumer would profit as a result. However, such a solution is difficult for the seller and requires initial investments as well as reorganization of the sales area. The principle of distribution and sale of unpackaged goods requires a comprehensive transformation of the retail store - branches would have to allocate funds and space for relatively bulky and financially expensive containers. From the point of view of marketing, however, this solution also brings the potential for a more effective solution to visual advertising, which can be solved graphically in different ways, either in terms of visual unification or with an emphasis on accentuating individual brands
 
 ## Logo
-THE LOGO IS BASED ON THE LETTER O, WHICH IS NARROW AND SYMBOLIZES ZERO. AN ARROW POINTING DOWN COMES FROM THE END OF THE LETTER. THAT MEANS ZERO WASTE. WHICH IS EXACTLY THE MESSAGE THE EUROPEAN UNION WANTS TO SEND
+The logo is based on the letter "o", witch is is narrow and symbolizes zero. An arrow pointing down comes from the letter. That means zero waste. Witch is exactly the message the European Union wants to send.
 
 ![EU.LOGO](4. EU.LOGO.jpg)
 
@@ -27,6 +28,7 @@ It is closely connected with nature in people‘s consciousness. For better mani
 For comprehensive communication, it is necessary to have a well-functioning website that will help potential 
 customers and entrepreneurs to find 
 information about the campaign. 
+
 The website would serve to communicate the objectives of the European Union and reduce environmental waste to a minimum. On the website of the campaign, it would be possible to switch the text to the individual languages of the member states, as is already the case on the official website of the European Union. As already indicated, with the creation of the campaign, websites would also be created under the auspices of the EU. These would contain all sorts of information. From various articles to information about added store chains where such a purchase method can be made.
 
 ![Holding-iPad-Tablet-Mockup-EU](5. Holding-iPad-Tablet-Mockup-EU.jpg) 
