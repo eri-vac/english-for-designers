@@ -11,17 +11,17 @@ The goal of this communication is to push companies to the first step of packagi
 ## Logo
 THE LOGO IS BASED ON THE LETTER O, WHICH IS NARROW AND SYMBOLIZES ZERO. AN ARROW POINTING DOWN COMES FROM THE END OF THE LETTER. THAT MEANS ZERO WASTE. WHICH IS EXACTLY THE MESSAGE THE EUROPEAN UNION WANTS TO SEND
 
-![EU.LOGO](4. EU.LOGO.jpg) 
+![EU.LOGO](4. EU.LOGO.jpg)
 
 For easier dissemination of the 
 campaign to all member states of the European Union, the English language is used. Both for logos and slogans. The campaign‘s target audience is mainly young to middle-aged, between 18 and 45 years old, and due to the addition of English to the EU school curriculum, it is not difficult for many people to translate simple slogans into their native language. Another reason for using mainly the English language is the fact that it is a world language.
 
-![Paper-Logo-Mockup.EU](2. Paper-Logo-Mockup.EU.jpg) 
+![Paper-Logo-Mockup.EU](2. Paper-Logo-Mockup.EU.jpg)
 
 Another important aspect is color. It is a priority that both entrepreneurs and potential consumers remember certain concepts under the color scale. For an environmental campaign that aims to reduce the consumption of materials, it is of course the color green. 
 It is closely connected with nature in people‘s consciousness. For better manipulation with black or white backgrounds, I chose two shades of green. One dark green that evokes natural wooded vegetation and forests, reminiscent of pine green. The second shade is light green, which symbolizes a light grass meadow. These are the two primary colors that the campaign uses the most. Other secondary colors for the campaign are bright orange yellow and white ivory. Orange-yellow serves to connect with the European Union and its orange-yellow stars on the EU flag.
 
-![EU.LOGO.BAREVNOST](3. EU.LOGO.BAREVNOST.jpg) 
+![EU.LOGO.BAREVNOST](3. EU.LOGO.BAREVNOST.jpg)
 
 ## Media and web
 For comprehensive communication, it is necessary to have a well-functioning website that will help potential 
@@ -33,8 +33,8 @@ The website would serve to communicate the objectives of the European Union and 
 
 Websites would be simpler in nature. The navigation system would be simple. A potential customer would easily find their way around using the menu icon, where they would find a detailed division of the website into given segments. For example, this would be information about the campaign, articles, improving the prosperity of nature, shops that have been involved. The website would provide instructional videos to operate the machines upon agreement with the company.
 
-![PaperBag_eu](9. PaperBag_eu.jpg) 
+![PaperBag_eu](9. PaperBag_eu.jpg)
 
-![taška.EU1](15. taška.EU1.jpg) 
+![taška.EU1](15. taška.EU1.jpg)
 
-![taška.EU](14. taška.EU.jpg) 
+![taška.EU](14. taška.EU.jpg)
