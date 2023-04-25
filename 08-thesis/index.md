@@ -5,6 +5,9 @@ The environmental impact on our planet is a very current, societal problem that 
 
 In the practical part, the thesis deals with the proposal of a solution to the problem of packaging. It shows the visual solution of the campaign. It discusses essential parts of the campaign such as the effect of the logo. It illuminates the functionality of websites, social networks and media. It presents practical products under the auspices of the EU.
 
+The work shows a proposal that would contribute to the environment and burden it as little as possible. This is B2B communication between the European Union and supermarket chains.
+The goal of this communication is to push companies to the first step of packaging-free containers. This is one of the most economical solutions. This would be a big savings in packaging materials, which, in addition to a positive environmental impact, would have a favorable impact on the final price, and every consumer would profit as a result. However, such a solution is difficult for the seller and requires initial investments as well as reorganization of the sales area. The principle of distribution and sale of unpackaged goods requires a comprehensive transformation of the retail store - branches would have to allocate funds and space for relatively bulky and financially expensive containers. From the point of view of marketing, however, this solution also brings the potential for a more effective solution to visual advertising, which can be solved graphically in different ways, either in terms of visual unification or with an emphasis on accentuating individual brands
+
 ## Logo
 THE LOGO IS BASED ON THE LETTER O, WHICH IS NARROW AND SYMBOLIZES ZERO. AN ARROW POINTING DOWN COMES FROM THE END OF THE LETTER. THAT MEANS ZERO WASTE. WHICH IS EXACTLY THE MESSAGE THE EUROPEAN UNION WANTS TO SEND
 
